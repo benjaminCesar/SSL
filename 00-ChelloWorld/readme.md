@@ -1,4 +1,4 @@
-Compilador: MSYS2 MINGW64 -
+Compilador: MSYS2 MINGW32 -
 Salida del comando gcc --version:
 gcc.exe (Rev3, Built by MSYS2 project) 13.2.0
 Copyright (C) 2023 Free Software Foundation, Inc.
